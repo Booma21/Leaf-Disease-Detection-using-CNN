@@ -1,0 +1,6 @@
+numpy
+tqdm
+opencv-python
+matplotlib
+tensorflow
+tflearn
